@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitcount+Single:wght@100..900&family=Bitcount:wght@100..900&display=swap');
+h1{
+    text-align: center;
+}
+h1,h2 {
+    color: rosybrown
+}
+header a img{
+    width: 40%;
+}
+
+img{
+text-align: center;
+}
+
+main a img{
+width: 60%
+}
+
+.lautaro{
+    color: aqua;
+}
+body{
+     font-family: "Bitcount Single", system-ui;
+     font-weight: 700;
+}
+
+li>a {
+    color: rgb(158, 127, 70);
+    text-decoration: none;
+    font-size: 15px;
+}
+
+*{
+    margin: 0;
+    padding: o;
+}
+h2{
+    font-family: "Bitcount Single", system-ui;
+    font-weight: 400;
+}
+.fa.facebook, .fa.instagram, .fa.twitter, .fa.whatsapp{
+    font-size: 100px;
+}
+div{
+    color: burlywood;
+    font-size: 20p;
+}
+#fondoprincipal{
+    background-image: url(.//assets/img/9b291798238b80770cce433ee61693f4.jpg);
+    height: 300px;
+    background-repeat: no-repeat;
+}
+ul{
+    background-color: black;
+    color: white;
+    display: flex;
+    align-content: space-evenly;
+    width: 600px;
+}
+
+nav{
+    width: 80%;
+}
+img{
+    width: 600px;
+    height: auto;
+}
+.logo{
+    width: 100px;  
+}
